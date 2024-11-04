@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iqedoako.github.io/ABa/sitemap_index.txt
+Sitemap: https://iqedoako.github.io/Dpi/sitemap_index.txt
+Sitemap: https://iqedoako.github.io/ULX/sitemap_index.txt
+Sitemap: https://iqedoako.github.io/oiR/sitemap_index.txt
